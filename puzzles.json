@@ -1,5 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T05:28:12.160Z",
-  "puzzles": []
+  "updatedAt": "2026-11-06T05:29:25.068Z",
+  "puzzles": [
+    {
+      "id": "u1793942963849-51",
+      "title": "编辑器局面",
+      "code": "LBQ1.eyJ2IjoxLCJzaXplIjo5LCJ0dXJuIjowLCJwaWVjZXMiOlsiYktAZTkiLCJiUEBhNyIsImJQQGI3IiwiYlBAYzciLCJiUEBkNyIsImJQQGU3IiwiYlBAZjciLCJiUEBnNyIsImJQQGg3IiwiYlBAaTciLCJ3UkBlNiIsIndLQGUxIl0sInRyYXlzIjpbWyJQOm4iXSxbXV19",
+      "solution": [
+        "e8w1*1.1"
+      ],
+      "intro": "",
+      "hint": "",
+      "author": "一步杀王",
+      "createdAt": 1793942963850,
+      "side": 0,
+      "steps": 1
+    }
+  ]
 }
