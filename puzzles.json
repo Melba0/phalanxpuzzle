@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T05:39:23.181Z",
+  "updatedAt": "2026-11-06T05:39:45.850Z",
   "puzzles": [
     {
       "id": "u1793943561070-400",
@@ -13,20 +13,6 @@
       "hint": "",
       "author": "Melvin Zhang",
       "createdAt": 1793943561071,
-      "side": 0,
-      "steps": 1
-    },
-    {
-      "id": "u1793943482235-453",
-      "title": "编辑器局面",
-      "code": "LBQ1.eyJ2IjoxLCJzaXplIjo5LCJ0dXJuIjowLCJwaWVjZXMiOlsiYlBAYTkiLCJiUEBiOSIsImJQQGM5IiwiYlBAZDkiLCJiS0BlOSIsImJQQGY5IiwiYlBAZzkiLCJiUEBoOSIsImJQQGk5IiwiYlBAYTgiLCJiUEBiOCIsImJQQGM4IiwiYlBAZDgiLCJiUEBlOCIsImJQQGY4IiwiYlBAZzgiLCJiUEBoOCIsImJQQGk4IiwiYlBAYTciLCJiUEBiNyIsImJQQGM3IiwiYlBAZzciLCJiUEBoNyIsImJQQGk3Iiwid1JAZTYiLCJ3S0BlMSJdLCJ0cmF5cyI6W1siQjpuIl0sW11dfQ",
-      "solution": [
-        "e7w1*1.1"
-      ],
-      "intro": "",
-      "hint": "",
-      "author": "Melvin Zhang",
-      "createdAt": 1793943482235,
       "side": 0,
       "steps": 1
     }
