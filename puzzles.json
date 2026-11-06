@@ -1,5 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T05:29:56.039Z",
-  "puzzles": []
+  "updatedAt": "2026-11-06T05:30:22.522Z",
+  "puzzles": [
+    {
+      "id": "u1793943021657-275",
+      "title": "一步杀",
+      "code": "LBQ1.eyJ2IjoxLCJzaXplIjo5LCJ0dXJuIjowLCJwaWVjZXMiOlsiYktAZTkiLCJiUEBhNyIsImJQQGI3IiwiYlBAYzciLCJiUEBkNyIsImJQQGU3IiwiYlBAZjciLCJiUEBnNyIsImJQQGg3IiwiYlBAaTciLCJ3UkBlNiIsIndLQGUxIl0sInRyYXlzIjpbWyJQOm4iXSxbXV19",
+      "solution": [
+        "e8w1*1.1"
+      ],
+      "intro": "一步杀",
+      "hint": "",
+      "author": "一步杀王",
+      "createdAt": 1793943021657,
+      "side": 0,
+      "steps": 1
+    }
+  ]
 }
