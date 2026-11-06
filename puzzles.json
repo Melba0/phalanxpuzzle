@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-06T05:27:29.988Z",
+  "puzzles": [
+    {
+      "id": "u1793942849249-616",
+      "title": "编辑器局面",
+      "code": "LBQ1.eyJ2IjoxLCJzaXplIjo5LCJ0dXJuIjowLCJwaWVjZXMiOlsiYlBAYTkiLCJiUEBiOSIsImJQQGM5IiwiYktAZTkiLCJiUEBnOSIsImJQQGg5IiwiYlBAaTkiLCJiUEBhOCIsImJQQGI4IiwiYlBAYzgiLCJiUEBkOCIsImJQQGY4IiwiYlBAZzgiLCJiUEBoOCIsImJQQGk4IiwiYlBAYTciLCJiUEBiNyIsImJQQGM3IiwiYlBAZDciLCJiUEBlNyIsImJQQGY3IiwiYlBAZzciLCJiUEBoNyIsImJQQGk3Iiwid1JAZTYiLCJ3S0BlMSJdLCJ0cmF5cyI6W1siUDpuIl0sW11dfQ",
+      "solution": [
+        "e8w1*1.1"
+      ],
+      "intro": "",
+      "hint": "",
+      "author": "一步杀王",
+      "createdAt": 1793942849251,
+      "side": 0,
+      "steps": 1
+    }
+  ]
+}
