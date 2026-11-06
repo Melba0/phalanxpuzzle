@@ -1,7 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T05:38:45.402Z",
+  "updatedAt": "2026-11-06T05:39:23.181Z",
   "puzzles": [
+    {
+      "id": "u1793943561070-400",
+      "title": "编辑器局面",
+      "code": "LBQ1.eyJ2IjoxLCJzaXplIjo5LCJ0dXJuIjowLCJwaWVjZXMiOlsiYktAZTkiLCJiUEBhNyIsImJQQGI3IiwiYlBAYzciLCJiUEBkNyIsImJQQGU3IiwiYlBAZjciLCJiUEBnNyIsImJQQGg3IiwiYlBAaTciLCJ3UkBlNiIsIndLQGUxIl0sInRyYXlzIjpbWyJQOm4iXSxbXV19",
+      "solution": [
+        "e8w1*1.1"
+      ],
+      "intro": "",
+      "hint": "",
+      "author": "Melvin Zhang",
+      "createdAt": 1793943561071,
+      "side": 0,
+      "steps": 1
+    },
     {
       "id": "u1793943482235-453",
       "title": "编辑器局面",
