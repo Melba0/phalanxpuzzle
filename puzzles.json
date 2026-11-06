@@ -1,7 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T05:40:37.632Z",
+  "updatedAt": "2026-11-06T05:42:20.354Z",
   "puzzles": [
+    {
+      "id": "u1793943738522-217",
+      "title": "编辑器局面",
+      "code": "LBQ1.eyJ2IjoxLCJzaXplIjo5LCJ0dXJuIjowLCJwaWVjZXMiOlsiYlBAYTkiLCJiUEBiOSIsImJQQGM5IiwiYlBAZDkiLCJiS0BlOSIsImJQQGY5IiwiYlBAZzkiLCJiUEBoOSIsImJQQGk5IiwiYlBAYTgiLCJiUEBiOCIsImJQQGM4IiwiYlBAZDgiLCJiUEBlOCIsImJQQGY4IiwiYlBAZzgiLCJiUEBoOCIsImJQQGk4IiwiYlBAYTciLCJiUEBiNyIsImJQQGM3IiwiYlBAZzciLCJiUEBoNyIsImJQQGk3Iiwid1JAZTYiLCJ3S0BlMSJdLCJ0cmF5cyI6W1siQjpuIl0sW11dfQ",
+      "solution": [
+        "e7w1*1.1"
+      ],
+      "intro": "",
+      "hint": "",
+      "author": "Melvin Zhang",
+      "createdAt": 1793943738526,
+      "side": 0,
+      "steps": 1
+    },
     {
       "id": "u1793943624936-980",
       "title": "一步杀",
