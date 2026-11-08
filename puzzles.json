@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T04:36:53.116Z",
+  "updatedAt": "2026-11-08T04:37:24.450Z",
   "puzzles": [
     {
       "id": "u1794112611856-114",
@@ -17,20 +17,6 @@
       "createdAt": 1794112611856,
       "side": 0,
       "steps": 3
-    },
-    {
-      "id": "u1793943781534-684",
-      "title": "一步杀",
-      "code": "LBQ1.eyJ2IjoxLCJzaXplIjo5LCJ0dXJuIjowLCJwaWVjZXMiOlsiYlBAYTkiLCJiUEBiOSIsImJQQGM5IiwiYlBAZDkiLCJiS0BlOSIsImJQQGY5IiwiYlBAZzkiLCJiUEBoOSIsImJQQGk5IiwiYlBAYTgiLCJiUEBiOCIsImJQQGM4IiwiYlBAZDgiLCJiUEBlOCIsImJQQGY4IiwiYlBAZzgiLCJiUEBoOCIsImJQQGk4IiwiYlBAYTciLCJiUEBiNyIsImJQQGM3IiwiYlBAZzciLCJiUEBoNyIsImJQQGk3Iiwid1JAZTYiLCJ3S0BlMSJdLCJ0cmF5cyI6W1siQjpuIl0sW11dfQ",
-      "solution": [
-        "e7w1*1.1"
-      ],
-      "intro": "",
-      "hint": "",
-      "author": "Melvin Zhang",
-      "createdAt": 1793943781534,
-      "side": 0,
-      "steps": 1
     },
     {
       "id": "u1793943624936-980",
